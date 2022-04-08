@@ -5,7 +5,7 @@
 - 💻 I’m currently working as an AI Research Engineer 
 - 📝 Learning and doing research in Computer Vision
 - 🤖 I'm addicted to Machine Learning
-<br>
+
 ### Connect :
 <br>
 
