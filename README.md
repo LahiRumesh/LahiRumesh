@@ -6,8 +6,7 @@
 - 📝 Learning and doing research in Computer Vision
 - 🤖 I'm addicted to Machine Learning
 <br>
-<br>
-### **Connect :**
+### Connect :
 <br>
 
 [<img align="left" alt="LahiRumesh | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
