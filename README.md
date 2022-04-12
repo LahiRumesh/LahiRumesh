@@ -1,6 +1,5 @@
-# Hello World, I'm Lahiru 👋 
 
-## I'm an AI researcher with a passion centered on Machine Learning and Computer Vision
+### I'm an AI researcher with a passion centered on Machine Learning and Computer Vision
 
 - 💻 I’m currently working as an AI Research Engineer 
 - 📝 Learning and doing research in Computer Vision
