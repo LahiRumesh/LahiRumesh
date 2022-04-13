@@ -34,7 +34,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to train YOLACT: Real-time instance segmentation with Custom Dataset](https://medium.com/@lahrumesh28/train-yolact-real-time-instance-segmentation-with-custom-dataset-d3556d5b746d)
 - [Semi-Supervised Learning | Pseudo Labeling Custom Dataset with YOLOv4](https://medium.com/@lahrumesh28/semi-supervised-learning-pseudo-labeling-custom-dataset-with-yolov4-53b896140894)
-
+- [Simple CNN for Image Classification](https://lahrumesh28.medium.com/simple-cnn-for-image-classification-870e7acc1805)
 <!-- BLOG-POST-LIST:END -->
 
 ---
