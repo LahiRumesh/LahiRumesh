@@ -38,7 +38,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-![LahiRumesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahiRumesh&theme=dark&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiRumesh&layout=compact)
 
 [medium]: https://medium.com/@lahrumesh28
