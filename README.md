@@ -1,9 +1,9 @@
 
 ### I'm an AI researcher with a passion centered on Machine Learning and Computer Vision
 
-- 💻 I’m currently working as an AI Research Engineer 
-- 📝 Learning and doing research in Computer Vision
-- 🤖 I'm addicted to Machine Learning
+- 💻 I am presently employed as a Machine Learning Engineer, focusing on cutting-edge algorithms and innovative data-driven solutions
+- 📝 Actively studying and conducting in-depth research in the fields of Machine Learning and Computer Vision
+- 🤖 Deeply engaged in research spanning reinforcement learning, advanced biomedical applications, state-of-the-art robotics, generative AI techniques, and the intricacies of LLM
 
 ### Connect :
 <br>
